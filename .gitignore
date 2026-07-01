@@ -1,0 +1,22 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+
+# ---- OS ----
+.DS_Store
+
+
+# Karma prototype (not part of the report) 
+modelling_with_karma/
+
+# Large simulation caches and generated figures 
+
+*.npz
+*.npy
+*.png
+*.pdf
+
+
+*.xls
+*.csv
